@@ -1,0 +1,67 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.header-text{
+    margin: auto;
+    width: 1600px;
+    height: 808px;
+    padding-right: 230px;
+    padding-top: 216px;
+    align-items: center;
+    color: white;
+    background-image: url('./images/banner/banner3.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: right;
+}
+.header-title{
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+    font-size: 35px;
+    font-weight: 700;
+}
+.btn{
+    padding: 10px;
+}
+.privius-year-container{
+    width:1600px;
+    margin: auto;
+    padding: 30px;
+    display: flex;
+    justify-content: space-around;
+    height: 850px;
+    width: 1600px;
+    align-items: center;
+}
+.my-plan{
+    text-align: center;
+    width: 1600px;
+    margin: auto;
+}
+.my-plan-item{
+    display: flex;
+    justify-content: space-around;
+}
+.think{
+    width: 1600px;
+    margin: auto;
+    width: 1140px;
+    height: 300px;
+    background-image: url('/images/watch.png');
+    /* background-image: url('/images/gradient3.png'); */
+    background-repeat: no-repeat;
+    padding-top: 59px;
+    padding-left: 64px;
+}
+.footer{
+    width: 1600px;
+    height: 577px;
+    margin: auto;
+    padding: 130px 230px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
