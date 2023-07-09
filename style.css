@@ -65,3 +65,6 @@ body{
     justify-content: space-around;
     align-items: center;
 }
+.s-btn{
+    background-color: gold;
+}
